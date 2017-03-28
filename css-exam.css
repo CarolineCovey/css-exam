@@ -3,7 +3,7 @@
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
-
+@media(min-width: 600px) {
 .body {
   background-color: #2b2929;
 }
@@ -67,3 +67,4 @@ color: #bf5700;
 }
 .clearfix {
   overflow: auto;}
+}
