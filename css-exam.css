@@ -1,4 +1,14 @@
 
+.body {
+  background-color: #2b2929;
+}
+.container{
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 10px;
+  border:5px;
+}
 .container h1{
   margin-bottom: 1px;
 }
@@ -29,4 +39,13 @@ color: #bf5700;
   font-size: 12pt;
   color: #7e7a7a;
   text-transform: uppercase;
+}
+.more h3{
+  font-size: 12pt;
+  font-style: normal;
+  border-bottom: solid black;
+  margin-bottom: 0;
+}
+.more ul{
+  margin-top: 0;
 }
